@@ -29,10 +29,10 @@ make test
 
 Struktura plików:
 moja_aplikacja/
-│
-├── app.py # Główny plik aplikacji
-├── test_app.py # Plik z testami jednostkowymi
-├── Makefile # Plik Makefile z definicjami reguł
-└── README.md # Ten plik README
+|
+|── app.py # Główny plik aplikacji
+|── test_app.py # Plik z testami jednostkowymi
+|── Makefile # Plik Makefile z definicjami reguł
+|── README.md # Ten plik README
 
 Autor: Agata Prażmo

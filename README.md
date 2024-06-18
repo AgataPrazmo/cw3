@@ -28,6 +28,7 @@ Testy jednostkowe:
 make test
 
 Struktura plików:
+
 moja_aplikacja/
 - app.py # Główny plik aplikacji
 - test_app.py # Plik z testami jednostkowymi
